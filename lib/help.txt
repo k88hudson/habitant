@@ -1,6 +1,13 @@
 habitant help
 ===================
 
-init
+habitant
+  Checks your .env file against .habitant.yml
+  -v: Print environment variables that are OK
+
+habitant init
   Creates a new .env file from .habitant.yml
   -f: Create file even if .env already exists
+
+habitant -h
+  Print help
