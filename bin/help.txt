@@ -1,0 +1,6 @@
+habitant help
+===================
+
+init
+  Creates a new .env file from .habitant.yml
+  -f: Create file even if .env already exists

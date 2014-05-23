@@ -1,0 +1,17 @@
+{
+  "name": "envme",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "habitat": "^1.1.0",
+    "js-yaml": "^3.0.2",
+    "cli-color": "^0.2.3",
+    "minimist": "0.0.8"
+  }
+}
