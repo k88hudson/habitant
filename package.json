@@ -1,6 +1,6 @@
 {
   "name": "habitant",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "lib/habitant.js",
   "scripts": {
