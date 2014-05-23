@@ -2,7 +2,7 @@
   "name": "habitant",
   "version": "0.0.2",
   "description": "",
-  "main": "lib/habitant",
+  "main": "lib/habitant.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +13,6 @@
     "js-yaml": "^3.0.2",
     "cli-color": "^0.2.3",
     "minimist": "0.0.8"
-  }
+  },
+  "bin": "lib/habitant.js"
 }
